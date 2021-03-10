@@ -5,7 +5,7 @@ PyYAML==3.11
 Werkzeug==0.9.6
 gunicorn==19.1.0
 itsdangerous==0.24
-nltk==2.0.4
+nltk==3.4.5
 pycrypto==2.6.1
 python-dateutil==2.2
 requests==2.3.0
